@@ -1,0 +1,12 @@
+﻿a
+so:sn20190122.me
+smiple:sn20190122.cn
+src:sn20190122.org
+base:sn20190122.com
+b				
+module配置 :sn20190122.app
+ijkplayer-java:123456
+c
+apk:apk.com
+release-apk:sn20190122137511.apk-sn20190122137523.apk-sn20190122138530.apk
+name-ktv:bakApk1_3_7_51_release.ktv-bakApk1_3_8_53_0.ktv-bakApk1_3_7_52_release.ktv
